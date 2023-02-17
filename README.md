@@ -1,3 +1,1 @@
-<div style="background: #1b1b1b">
-	<h1 style="color: white">DANIEL MALEKZADEH</h1>
-</div>
+[![DANIEL MALEKZADEH](https://ibb.co/TBzfJSY)](https://danix69.netlify.app)
